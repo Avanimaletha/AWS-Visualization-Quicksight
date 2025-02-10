@@ -8,7 +8,7 @@ Click on "raw" and Control+S to save both files onto your computer.
 
 Step #2: Store the Dataset in Amazon S3
 Open the Amazon S3 console and click "Create Bucket."
-Name the bucket (e.g., "lucy-amazon-project") and keep the settings as default.
+Name the bucket (e.g., "avani-amazon-project") and keep the settings as default.
 Upload the CSV file and the "manifest.json" file into the bucket.
 Replace the URL in the "manifest.json" file with the S3 URL of your dataset.
 
