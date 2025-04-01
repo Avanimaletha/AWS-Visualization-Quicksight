@@ -20,6 +20,7 @@ Select Amazon S3 and tick the box for the S3 bucket you created.
 Enter the link to your "manifest.json" file and connect to Quicksight.
 Select "interactive sheet" to start creating visualizations.
 
+
 Step #4: Create Visualizations
 Drag fields into the graph to create visualizations (e.g., Most popular brands).
 Sort, filter, and customize the graphs as desired.
